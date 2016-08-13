@@ -4,7 +4,7 @@ To run the generic version:
 
 To generate the `int` version:
 
-    $ gengen -o list_int github.com/joeshaw/gengen/examples/list
+    $ gengen -o list_int github.com/joeshaw/gengen/examples/list int
 
 To run the `int` version:
 
